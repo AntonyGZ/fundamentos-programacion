@@ -18,3 +18,6 @@
 1. Clona el repositorio:  
    ```bash
    git clone https://github.com/TU-USUARIO/fundamentos-programacion.git
+2. Navega por las carpetas de los lenguajes y prueba los códigos.
+3. Contribuye enviando Pull Requests con más ejercicios.
+
